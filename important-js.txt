@@ -1,0 +1,24 @@
+
+
+
+
+/***Important JavaScript DOM document  **/
+
+# createAttribute()
+# createElement()
+# createEvent()
+# documentURI
+# domain
+# lastModified
+# URL
+# getElementById()
+# getElementsByClassName()
+# getElementsByTagName()
+# hasFocus()
+# open()
+# querySelector()
+# querySelectorAll()
+# readyState
+# removeEventListener()	
+# renameNode()
+# strictErrorChecking
