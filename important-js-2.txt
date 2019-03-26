@@ -1,0 +1,35 @@
+/*JS DOM elements*/
+
+# accessKey
+# addEventListener()
+# classList
+# contains()
+# contentEditable
+# getAttribute()
+# hasAttribute()
+# hasAttributes()
+# hasChildNodes()
+# id
+# innerHTML
+# innerText
+# insertBefore()
+# isContentEditable
+# isEqualNode()
+# isSameNode()
+# isSupported()
+# lang
+# lastChild
+# nextSibling
+# nodeName
+# nodeValue
+# offsetHeight
+# offsetWidth
+# offsetTop
+# ownerDocument
+# parentNode
+# scrollLeft
+# scrollTop
+# scrollWidth
+# tagName
+# textContent
+# toString()
